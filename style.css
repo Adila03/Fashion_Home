@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: auto;
+    width: 1030px;
+    height: auto;
+}
+header{ 
+    background-image: url(images/Ways-to-decorate-your-wall-space-with-minimal-effort-1280x720.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+
+}
+#ust{
+    width: 312px;
+    height: 200px;
+    float: right;
+    position: absolute;
+    right: 16%;
+    top: 26%;
+}
+#ust h1{
+    letter-spacing: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ust p{
+    letter-spacing: 1px;
+    font-style: italic;
+    margin-top: 10px;
+}
+form{
+    margin: 15px;
+    width: 300px;
+    
+}
+#first{
+    margin-right: 30px;
+    width: 124px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 2px;
+}
+#second{
+   margin-left: 30px;
+   width: 106px;
+   height: 30px;
+   color: black;
+   background-color: white;
+   border: 1px solid;
+   border-radius: 2px;
+
+}
+#section1{
+    height: 480px;
+    position: relative;
+
+}
+
+#qutu1 img{
+    position: absolute;
+    top: -5%;
+    left: 5%;
+}
+#qutu2 img{
+    position: absolute;
+    top: 15%;
+    left: 13%;
+}
+#qutu3{
+    height: 166px;
+    width: 365px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 37%;
+}
+#qutu3 h3{
+    letter-spacing: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     margin: 13px;
+}
+#qutu4 {
+    background-color: grey;
+    width: 258px;
+    height: 200px;
+    position: absolute;
+    top: 4%;
+    left: 66%;
+}
+#section2{
+    padding: 30px;
+    height: 310px;
+    position: relative;
+    display: flex;
+    background-color: rgb(128 128 128 / 22%);
+}
+#section3{
+    padding: 30px;
+    height: 610px;
+    justify-content: center;
+   
+  
+   
+}
+.kutu{
+    
+
+    height:220px;
+    display: flex;
+    float: left;
+}
+#section5{
+    background-color: grey;
+    height: 300px;
+}
+
+
+#alt h1{
+    padding-top: 70px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#alt p{
+    text-align: center;
+    letter-spacing: 1px;
+    font-style: italic;
+    margin-top: 25px;
+}
+
+#last{
+ 
+    width: 124px;
+    height: 30px;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 2px;
+}
+#axir{
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+}
+header  a{
+	text-decoration: none; 
+	color:black;
+	font-weight: 700;
+}
+
+header ul{
+	list-style: none;
+	position: relative;
+	float:right;
+	right: 20px;
+	top:0px;
+}
+
+header ul li{
+	display:block;
+	padding: 30px;
+	float: left;
+}
+
+header ul li a{
+	font-size: 18px;
+	font-weight:100;
+	text-transform: uppercase;
+	color:black;
+}
+
+header ul li a:hover{
+	color: grey;
+}
